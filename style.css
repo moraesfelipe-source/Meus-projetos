@@ -1,0 +1,17 @@
+a{ 
+    border:1px solid black;
+    padding: 15px;
+
+}
+div{
+    display: inline-block;
+    border: 1px solid black;
+    margin: auto;
+    padding: 75px;
+}
+span{
+    border: 1px solid black;
+}
+footer{
+    border: 1px solid black;
+}
